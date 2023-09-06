@@ -1,0 +1,12 @@
+api/node_modules
+api/node_modules/
+api/node_modules/*
+api/node_modules/**
+
+# Keep environment variables out of version control
+api/.env
+
+db
+db/
+db/*
+db/**
